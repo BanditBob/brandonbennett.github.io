@@ -23,7 +23,10 @@
       </p><br>
       <img src="photos/partypins.png" height="250px" width="auto" alt="Party Pins">
       <img src="photos/webaccessibility.png" height="250px" width="auto" alt="Web Accessibility">
-      <p>I have learned a lot about HTML5, CSS and JavaScript</p>
+      <p>I have created a lot of websites using HTML, CSS, and JavaScript. 
+         Developing a website is extremely exciting to me and there are always new things to make!</p>
+      <p>I have also developed many programs using the C++ language. I have used C++ to learn about various 
+         data structures and how they can help sort through data.</p>
     </div>
   </main>
   <footer>
